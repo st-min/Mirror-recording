@@ -5,7 +5,7 @@ When you run the program, the video appears through the webcam. (The output is 3
 
 Pressing the space bar starts recording mode, and a red circle is displayed at the top left of the screen.
 
-Pressing the space bar again ends recording mode, and the video is saved with the mp4 extension.
+Pressing the space bar again ends recording mode, and the video is saved with the .mp4 extension.
 
 Pressing the '1' key (or '!' key) enables screen horizontal inversion.
 
